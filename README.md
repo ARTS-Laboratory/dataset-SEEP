@@ -16,7 +16,7 @@ Overall wireless communication of a network of nine sensing spike packages, disp
 <img src="media/largeembankment plan_vs_real.jpg" alt="drawing" width="400"/>
 </p>
 <p align="center">
-Overall view of large-embankment for the experimental setup, showing: (a) crosssectional view with dimensions of the levee structure; (b) side view of the real levee structure; and (c) top view of the real levee structure.
+Overall view of the embankment for the experimental setup, showing: (a) cross-sectional view with dimensions of the levee structure; (b) side view of the real levee structure; and (c) top view of the real levee structure.
 </p>
 
 
