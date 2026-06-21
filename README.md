@@ -40,7 +40,7 @@ Cite as:
 @Misc{ARTSLabSwiftUavScientific,     
   author = {Sydney Morris and Puja Chowdhury and Malichi Flemming and Ayman Mokhtar and Austin R.J. Downey and Jasim Imran and Sadik Khan},  
   howpublished = {GitHub},    
-  title  = {Sensing Earthen Embankment Processes {{(SEEP)}},    
+  title  = {Sensing Earthen Embankment Processes {(SEEP)}},    
   groups = {{ARTS-L}ab},    
   url    = {https://github.com/ARTS-Laboratory/dataset-SEEP},   
   note        = {Accessed: Month dd, yyyy},   
