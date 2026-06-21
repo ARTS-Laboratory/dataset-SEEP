@@ -5,7 +5,7 @@ The **SEEP Dataset** is an open research dataset for studying seepage, saturatio
 
 
 <p align="center">
-<img src="media/basestation.jpg" alt="drawing" width="400"/>
+<img src="media/basestation.jpg" alt="drawing" width="800"/>
 </p>
 <p align="center">
 Overall wireless communication of a network of nine sensing spike packages, displaying: (a) network of nine wireless sensing spike packages, (b) layout of the flume setup, and (c) detailed layout of the base station.
@@ -13,7 +13,7 @@ Overall wireless communication of a network of nine sensing spike packages, disp
 
 
 <p align="center">
-<img src="media/largeembankment plan_vs_real.jpg" alt="drawing" width="400"/>
+<img src="media/largeembankment plan_vs_real.jpg" alt="drawing" width="800"/>
 </p>
 <p align="center">
 Overall view of the embankment for the experimental setup, showing: (a) cross-sectional view with dimensions of the levee structure; (b) side view of the real levee structure; and (c) top view of the real levee structure.
