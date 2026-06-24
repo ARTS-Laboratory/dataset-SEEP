@@ -13,3 +13,5 @@ This repository contains four primary data files:
 
 * **Resistance measurements**  
   Time-series resistance values calculated from the measured electrical potential. These resistance values are the primary processed sensor data used for soil saturation mapping and analysis.
+
+  ![Alt text](plots/9resistance-vs-time.jpg)
