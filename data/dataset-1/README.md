@@ -18,7 +18,7 @@ This repository contains four primary data files:
 
   ![The data from all 9 sensor nodes converted into resistance and plotted as a time series. Key timestamps are highlighted by vertical lines.](9resistance-vs-time.jpg)
   
-  ** Notes on videos provided
+## Notes on videos provided
   * Brief frame jumps occur where camera batteries were changed during the test.
   * The camera slowly shifted/slid over the course of the recording.
   * Original source video files were approximately 100 GB and were too large to include directly in the GitHub repository.
