@@ -68,35 +68,35 @@ ax.plot(x,voltage_to_resistance(D[:,9]),label='node 9', linewidth=1, color='#8c5
 
 # timestamp lines and labels
 ax.axvline(x=19,linestyle='--',color='black',linewidth=1, zorder=0)
-ax.text(19, 1700, '19 min',
+ax.text(19, 2500, '19 min',
         va='center', ha='center', bbox=dict(
             facecolor='white',
             edgecolor='none',
             boxstyle='round,pad=0.3',
             alpha=0.9))
 ax.axvline(x=34,linestyle='--',color='black',linewidth=1, zorder=0)
-ax.text(34, 1700, '34 min',
+ax.text(34, 7667, '34 min',
         va='center', ha='center', bbox=dict(
             facecolor='white',
             edgecolor='none',
             boxstyle='round,pad=0.3',
             alpha=0.9))
 ax.axvline(x=44,linestyle='--',color='black',linewidth=1, zorder=0)
-ax.text(44, 1700, '44 min',
+ax.text(44, 7667, '44 min',
         va='center', ha='center', bbox=dict(
             facecolor='white',
             edgecolor='none',
             boxstyle='round,pad=0.3',
             alpha=0.9))
 ax.axvline(x=62,linestyle='--',color='black',linewidth=1, zorder=0)
-ax.text(62, 3350, '62 min',
+ax.text(62, 7667, '62 min',
         va='center', ha='center', bbox=dict(
             facecolor='white',
             edgecolor='none',
             boxstyle='round,pad=0.3',
             alpha=0.9))
 ax.axvline(x=72,linestyle='--',color='black',linewidth=1, zorder=0)
-ax.text(72, 3350, '72 min',
+ax.text(72, 7667, '72 min',
         va='center', ha='center', bbox=dict(
             facecolor='white',
             edgecolor='none',
@@ -104,10 +104,10 @@ ax.text(72, 3350, '72 min',
             alpha=0.9))
 
 ax.set_xlim(0,105)
-ax.set_ylim(1500, 6000)
+ax.set_ylim(1500, 20000)
 ax.autoscale(enable=False)
 ax.set_xticks(np.linspace(0,105,7))
-ax.set_yticks(np.linspace(1500,6000,10))
+ax.set_yticks(np.linspace(1500,20000,10))
 ax.tick_params(axis='both',direction='out')
 
 ax.set_ylabel(r'resistance ($\Omega$)')
