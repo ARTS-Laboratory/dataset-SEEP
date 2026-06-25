@@ -37,7 +37,7 @@ This work is licensed under a
 
 Cite as:
 
-@Misc{ARTSLabSwiftUavScientific,     
+@Misc{ARTSLabSEEP,     
   author = {Sydney Morris and Puja Chowdhury and Malichi Flemming and Ayman Mokhtar and Austin R.J. Downey and Jasim Imran and Sadik Khan},  
   howpublished = {GitHub},    
   title  = {Sensing Earthen Embankment Processes {(SEEP)}},    
