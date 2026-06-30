@@ -1,4 +1,3 @@
-<img width="1536" height="2048" alt="Batch Preparation Log" src="https://github.com/user-attachments/assets/8875e659-8248-40bb-b10c-f264d79b007d" />
 # Experimental Setup
 
 The sand used in these experiments had a measured grain size distribution, with characteristic particle diameters of  D10 = 0.15 mm, D50 = 0.50 mm, and D90 = 1.0 mm. The sand samples were prepared by mixing dry sand with water to achieve a target moisture content of 5%. For each batch, the total sand mass was first measured, and the bucket weight was subtracted to obtain the net dry sand mass. The required water volume was then calculated as:
