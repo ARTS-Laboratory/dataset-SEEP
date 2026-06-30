@@ -13,18 +13,16 @@ Figure S1. Grain size distribution curve of the sand used in the experimental se
 
 Pictures from the construction process are shown below:
 
+<img width="4032" height="3024" alt="20240730_190356360_iOS" src="https://github.com/user-attachments/assets/e9c9657e-26ee-47d1-90c7-51d37b39a07a" />
+
 <img width="4032" height="1960" alt="20240805_100615" src="https://github.com/user-attachments/assets/829ae11c-5d8d-4b5b-bce7-cf3e7ca1c55b" />
 
 <img width="4032" height="1960" alt="20240805_114021" src="https://github.com/user-attachments/assets/0eb7e94b-e3d5-40f8-83b5-576d4c1bb1ca" />
 
 <img width="4032" height="1960" alt="20240805_123053" src="https://github.com/user-attachments/assets/b6377b49-2882-4996-8aab-1ae002299a4d" />
 
-<img width="4032" height="3024" alt="20240730_190356360_iOS" src="https://github.com/user-attachments/assets/e9c9657e-26ee-47d1-90c7-51d37b39a07a" />
-
 <img width="3024" height="4032" alt="20240805_143534814_iOS" src="https://github.com/user-attachments/assets/1bbb1337-69e6-409b-a810-98acf7bac526" />
 
 <img width="3024" height="4032" alt="20240805_162758626_iOS" src="https://github.com/user-attachments/assets/060966c2-164a-4c23-9c12-fd5e28c9c6c1" />
 
 <img width="4032" height="3024" alt="20240805_162242574_iOS" src="https://github.com/user-attachments/assets/e06ec97b-760b-4687-bca1-76aea1ef6489" />
-
-<img width="3024" height="4032" alt="20240805_182354742_iOS" src="https://github.com/user-attachments/assets/419808e7-04f8-4931-90fc-b33cab7ad224" />
